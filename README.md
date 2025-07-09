@@ -1,5 +1,6 @@
 # Metric / Imperial Converter
-![image](https://github.com/user-attachments/assets/104d365a-f84d-403e-ab02-8a5b0d9bed03)
+![image](https://github.com/user-attachments/assets/99659047-6a98-44da-861d-a0dfe5f4ea9e)
+
 
 ## Overview
 This project is a simple web-based Metric to Imperial converter. It allows users to input a value and convert between:
