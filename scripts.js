@@ -35,7 +35,7 @@ function convert(){
     const gallon2 = value
     const liter2 = (value/0.264).toFixed(3)
     // 
-    volDet.textContent = `${liter1} meters = ${gallon1} feet | ${gallon2} feet = ${liter2} meters`
+    volDet.textContent = `${liter1} liters = ${gallon1} gallon | ${gallon2} gallon = ${liter2} liters`
 
     // Kilo -> Pound | Pound -> Kilo
     const kilo1 = value
@@ -44,7 +44,7 @@ function convert(){
     const pound2 = value
     const kilo2 = (value/2.204).toFixed(3)
     // 
-    massDet.textContent = `${kilo1} meters = ${pound1} feet | ${pound2} feet = ${kilo2} meters`
+    massDet.textContent = `${kilo1} kilo = ${pound1} pounds | ${pound2} pounds = ${kilo2} kilo`
 
 
 
